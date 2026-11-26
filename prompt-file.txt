@@ -1,0 +1,1 @@
+Write the one sentence a house cat would say in its own voice in the five seconds after sweeping a glass off the table, a single sentence under 200 characters, no apology and no confession, as a deterministic Python program that prints exactly that sentence to stdout and writes it to /output/entry.txt.
